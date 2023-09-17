@@ -1,3 +1,8 @@
+<div align="center">
+  <h2>Hi 👋, I'm Ashis Solomon</h2>
+  <h3>Interested in ML and Backend</h3>
+</div>
+
 ![](https://komarev.com/ghpvc/?username=ashis-solomon&color=0380fc)
 
 ### Connect with Me:
@@ -12,4 +17,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=ashis-solomon&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ashis-solomon&theme=dark&hide_border=false)<br/>
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashis-solomon&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact) -->
-<!-- [![](https://visitcount.itsvg.in/api?id=ashis-solomon&icon=0&color=1)](https://visitcount.itsvg.in) -->
+
+---
+[![](https://visitcount.itsvg.in/api?id=ashis-solomon&icon=0&color=1)](https://visitcount.itsvg.in)
