@@ -7,7 +7,12 @@
 <!-- ![](https://komarev.com/ghpvc/?username=ashis-solomon&color=0380fc) -->
 
 ### Connect with Me:
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:ashissolomon24@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashis-solomon-1477001b8/)
+<a href="mailto:ashissolomon24@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail">
+</a>
+<a href="https://www.linkedin.com/in/ashis-solomon-1477001b8/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
 
 
