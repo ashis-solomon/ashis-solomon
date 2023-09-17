@@ -1,9 +1,9 @@
 <div align="center">
-  <h2>Hi 👋, I'm Ashis Solomon</h2>
-  <h3>Interested in ML and Backend</h3>
+  <h2>Hi there 👋, I'm Ashis Solomon</h2>
+  <!-- <h3>Interested in ML and Backend</h3> -->
 </div>
-
-![](https://komarev.com/ghpvc/?username=ashis-solomon&color=0380fc)
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=ashis-solomon&style=flat" alt="ashis-solomon" /> </p>
+<!-- ![](https://komarev.com/ghpvc/?username=ashis-solomon&color=0380fc) -->
 
 ### Connect with Me:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:ashissolomon24@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashis-solomon-1477001b8/)
