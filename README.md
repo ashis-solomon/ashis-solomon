@@ -1,12 +1,10 @@
-<head>
-    <style>
-        .custom-img {
-            width: 100%;
-            height: 100px;
-            object-fit: cover;
-        }
-    </style>
-</head>
+<style>
+    .custom-img {
+        width: 100%;
+        height: 100px;
+        object-fit: cover;
+    }
+</style>
 
 <img src="assets/img/banner1.png" alt="Banner" class="custom-img">
 
