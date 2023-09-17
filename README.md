@@ -17,6 +17,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=ashis-solomon&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ashis-solomon&theme=dark&hide_border=false)<br/>
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashis-solomon&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact) -->
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashis-solomon&theme=dark&hide_border=false&include_all_commits=false&count_private=true" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashis-solomon&theme=dark&hide_border=false" width="400">
+</p>
 ---
 [![](https://visitcount.itsvg.in/api?id=ashis-solomon&icon=0&color=1)](https://visitcount.itsvg.in)
