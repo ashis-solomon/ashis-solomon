@@ -1,18 +1,9 @@
-<style>
-    .custom-img {
-        width: 100%;
-        height: 100px;
-        object-fit: cover;
-    }
-</style>
-
-<img src="assets/img/banner1.png" alt="Banner" class="custom-img">
 
 <div align="center">
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashis-solomon&style=flat" alt="ashis-solomon" /> </p>
   <h2>Hi there 👋, I'm Ashis Solomon</h2>
   <!-- <h3>Interested in ML and Backend</h3> -->
 </div>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=ashis-solomon&style=flat" alt="ashis-solomon" /> </p>
 <!-- ![](https://komarev.com/ghpvc/?username=ashis-solomon&color=0380fc) -->
 
 ### Connect with Me:
